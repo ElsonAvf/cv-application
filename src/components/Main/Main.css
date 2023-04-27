@@ -1,0 +1,12 @@
+#main {
+  padding: 40px 10px 20px 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+#main * {
+  color: #0D1C36;
+}
+#main input {
+  border-bottom: 1px solid rgba(0,0,0,.6);
+}
