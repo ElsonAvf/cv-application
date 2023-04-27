@@ -1,0 +1,9 @@
+#description > input[name='name'], #description > input[name='job'] {
+  border: none;
+}
+#description input[name='name'] {
+  font-size: 32px;
+}
+#description input[name='job'] {
+  font-size: 24px;
+}
