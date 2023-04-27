@@ -1,0 +1,12 @@
+#contact label, #contact article {
+  margin-bottom: 10px;
+}
+#contact label, #contact h4 {
+  color: white;
+}
+#contact input, #contact div {
+  font-size: 14px;
+}
+#contact fieldset {
+  border: 1px solid yellow;
+}
