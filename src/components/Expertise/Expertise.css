@@ -1,0 +1,6 @@
+#expertise li {
+  margin-left: 14px;
+}
+#expertise > ul > li {
+  list-style-type: disc;
+}
