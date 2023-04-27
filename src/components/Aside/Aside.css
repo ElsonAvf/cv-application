@@ -1,0 +1,24 @@
+#aside {
+  padding: 40px 10px 20px 10px;
+  background-color: #0D1C36;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+#aside *:not(button) {
+  color: white;
+}
+#aside input {
+  border-bottom: 1px solid rgba(255,255,255,.6);
+  background-color: inherit;
+  color: white;
+}
+#aside > section {
+  width: 100%;
+}
+#aside ul {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
