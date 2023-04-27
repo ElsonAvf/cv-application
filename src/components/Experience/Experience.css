@@ -1,0 +1,7 @@
+.exp-date, .exp-date > input, .job-position {
+  font-weight: bold;
+}
+fieldset.exp-date {
+  display: flex;
+  gap: 8px;
+}
